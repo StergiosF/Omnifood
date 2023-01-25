@@ -1,14 +1,12 @@
 # ∞ Omnifood
 
-A responsive landing page for the Omnifood business, made with HTML, CSS and Vanilla JavaScript.
+Omnifood is a landing page for the smart 365-days-per-year food subscription that will make you eat healthy again. It was designed and developed using HTML, CSS, and vanilla JavaScript, with responsive design incorporated to ensure mobile-friendliness.
 
 ## Deployment
 
 Deployed Website: https://omnifood-stergios.netlify.app
 
 [![omnifood-full.png](./img/omnifood-full.png)](https://omnifood-stergios.netlify.app)
-
-Omnifood is a landing page for the smart 365-days-per-year food subscription that will make you eat healthy again. It was designed and developed using HTML, CSS, and vanilla JavaScript, with responsive design incorporated to ensure mobile-friendliness.
 
 ## Built With
 
