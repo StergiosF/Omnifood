@@ -6,7 +6,7 @@ Landing Page for the smart 365-days-per-year food subscription that will make yo
 
 Deployed Website: https://omnifood-stergios.netlify.app
 
-[![omnifood-full.png](./omnifood-full.png)](https://omnifood-stergios.netlify.app)
+[![omnifood-full.png](./img/omnifood-full.png)](https://omnifood-stergios.netlify.app)
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
