@@ -1,6 +1,6 @@
 # ∞ Omnifood
 
-A responsive landing page for the Omnifood bussiness, made with HTML, CSS and Vanilla JavaScript.
+A responsive landing page for the Omnifood business, made with HTML, CSS and Vanilla JavaScript.
 
 ## Deployment
 
