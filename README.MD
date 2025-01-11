@@ -16,4 +16,4 @@ Deployed Website: https://omnifood-stergios.netlify.app
 
 ## Getting Started
 
-To get started with project just simply fork this repo or download locally on your System.
+To start the project, fork this repository or download it locally on your System.
